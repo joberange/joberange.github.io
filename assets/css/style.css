@@ -1,0 +1,14 @@
+body {
+    background-color:black;
+    color: white
+
+}
+#name{
+    background-color: green;
+    float: left
+}
+#about,
+#portfolio,
+#contact{
+    float: left
+}
