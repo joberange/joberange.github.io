@@ -1,0 +1,11 @@
+#box1,
+#box2,
+#box3,
+#box4,
+#box5{
+    float: left;
+}
+box{
+    margin: 50px;
+    padding: 10px
+}

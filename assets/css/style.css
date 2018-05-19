@@ -1,14 +1,69 @@
-body {
-    background-color:black;
-    color: white
 
-}
-#name{
-    background-color: green;
+h1 {
+    padding: 10px;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    background: tan;
     float: left
+  }
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 24px;
+    line-height: 150%;
+    color: white;
+    background-image: url("../images/grey-wood.jpg");
+    background-repeat: no-repeat, repeat;
+    background: #005C4B;
+  }
+header {
+    font-size: 30px;
+    padding: 20px;
+    margin: 20px;
+    color: white    
+  }
+
+#head{
+    padding: 40px;
+    margin: 40px;
+    background: white
 }
-#about,
-#portfolio,
-#contact{
-    float: left
+#aboutme{
+    float: right;
+    margin: 0px 100px 100px 100px;
+}
+.headtag{
+    list-style-type: none;
+    text-align: right;
+}
+.headtag li {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-
+}
+a:link {
+    text-decoration: none;
+}
+#aboutimg{
+    float: left;
+    margin: 20px;
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    padding: 20px ;
+    margin: 0;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    background: tan;
+    float: left;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    border-style: solid;
+    border-width: 10px 0 0 0;
+    border-color: slategray;
 }
